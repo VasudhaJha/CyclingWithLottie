@@ -1,0 +1,6 @@
+framework module Pods_CyclingWithLottie {
+  umbrella header "Pods-CyclingWithLottie-umbrella.h"
+
+  export *
+  module * { export * }
+}
